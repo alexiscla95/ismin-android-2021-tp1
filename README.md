@@ -16,8 +16,8 @@ The goal is to discover Kotlin and its ecosystem by implementing:
   - `date`
 - 📚 A `Bookshelf` class that internally store books and have the following public functions:
   - `addBook(book: Book)`
-  - `getBook(title: string)` returning a `Book`
-  - `getBooksOf(author: string)` returning an array of `Book`s, alpha sorted by title
+  - `getBook(title: String)` returning a `Book`
+  - `getBooksOf(author: String)` returning an array of `Book`s, alpha sorted by title
   - `getAllBooks()` returning an array of `Book`s, alpha sorted by title
   - `getTotalNumberOfBooks()` returning a number
 
